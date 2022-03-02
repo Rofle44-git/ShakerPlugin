@@ -1,0 +1,8 @@
+[gd_scene format=2]
+
+[node name="Shaker" type="Node"]
+__meta__ = {
+"_editor_description_": "If Target Node is 0, it will target the first child node"
+}
+
+[node name="Timer" type="Timer" parent="."]
